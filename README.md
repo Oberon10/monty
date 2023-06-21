@@ -1,4 +1,4 @@
-                                0x19. C - Stacks, Queues - LIFO, FIFO
+                                #0x19. C - Stacks, Queues - LIFO, FIFO
 
 This project is a collaborative effort by Frankline Ike and Prosper Benard Echebiri, dedicated to ALX-SE.
 
