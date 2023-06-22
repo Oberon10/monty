@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
- * f_push - this function add node to the stack
+ * f_push - this fuction add node to the stack
  * @head: stack head
  * @counter: line_number
  * Return: no return
@@ -13,7 +13,7 @@ void f_push(stack_t **head, unsigned int counter)
 	{
 		if (bus.arg[0] == '-')
 			k++;
-		for (; bus.arg[k] != '\0'; k++)
+		for (; bus.arg[j] != '\0'; k++)
 		{
 			if (bus.arg[k] > 57 || bus.arg[k] < 48)
 				flag = 1; }
